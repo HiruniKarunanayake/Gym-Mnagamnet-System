@@ -1,0 +1,15 @@
+Database Name: gymnsb
+Developed by : The Bumz
+
+**Admin Login Details**
+
+Username: bumz
+Password: bumz788@#
+
+**Customer Login Details**
+Username: Summer
+Password: summer
+
+**Staff Login Details**
+Username: Zid
+Password: Zid
